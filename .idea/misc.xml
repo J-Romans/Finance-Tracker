@@ -1,0 +1,22 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/layout/delete_all_popup.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/layout/item_design.xml" value="0.67" />
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/layout/popup.xml" value="0.22" />
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/layout/recycler_view_row.xml" value="0.33" />
+        <entry key="..\:/Users/josep/Documents/Programming/Java/Android Development/FinanceTracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="..\:/Users/josep/Documents/Programming/_Java/Android Development/ZZ Complete Projects/FinanceTracker/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
